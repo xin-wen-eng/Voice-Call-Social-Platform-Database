@@ -1,5 +1,4 @@
 # Voice-Call-Social-Platform-Database
-Database Topic: Voice-Call Chat & Social Interaction Platform Database 
 
 Mission Statement:
 To design and implement a robust relational database for a real-time voice-call social platform that efficiently manages user identities, room lifecycles, and session participation. The system aims to provide a scalable foundation for real-time audio interaction, content moderation, and financial transaction auditing while ensuring data integrity and reporting capabilities.
@@ -37,4 +36,3 @@ To report on participant engagement and interaction metrics.
 To report on platform safety and moderation accountability.
 To report on virtual economy performance and financial auditing.
 To report on system events for troubleshooting and operational analysis.
-<img width="468" height="642" alt="image" src="https://github.com/user-attachments/assets/26bf8188-6e59-413b-911f-592c18371d2d" />
